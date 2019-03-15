@@ -2,6 +2,12 @@
 
 Simple python scripts for those everyday, mundane Fedora tasks.
 
+#### Install for fingerprint_analysis
+```
+$ pip install pipenv
+$ pipenv run pip install pillow==2.6.1 imagehash==0.3 argparse shelve glob
+```
+
 ## Count Matching Objects
 
 ```
